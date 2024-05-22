@@ -25,7 +25,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@android:drawable/dialog_holo_light_frame"
-            android:hint="Enter city"
+            android:hint="Enter city name (e.g.,London, UK)"
             android:textColorHint="#546E7A"
             tools:ignore="VisualLintTextFieldSize" />
     </com.google.android.material.textfield.TextInputLayout>
